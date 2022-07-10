@@ -11,7 +11,7 @@ h1, h2, h3, h4, h5, h6{
 	font-family: 'Montserrat', sans-serif;
 }
 
-nav{
+.nav{
 	padding: 35px;
 	display: flex;
 	justify-content: space-between;
@@ -43,4 +43,9 @@ nav{
 	display: flex;
 	width: 555px;
 	justify-content: space-between;
+	margin-right: 100px;
+}
+
+.main-part__social a{
+	width: 22px;
 }
