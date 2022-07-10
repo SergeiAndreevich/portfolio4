@@ -199,10 +199,11 @@ h1, h2, h3, h4, h5, h6{
 
 .about-us__down{
 	padding: 71px 0 100px 0;
+	display: flex;
 }
 
 .about-us__card{
-	width: 298px;
+	width: 260px;  /*//298*/
 	height: 433px;
 	background-color: #B91869;
 	text-align: center;
@@ -234,9 +235,10 @@ h1, h2, h3, h4, h5, h6{
 }
 
 .about-us__card-close{
-	width: 298px;
-	height: 433px;
+	width: 260px; /* //298*/
+ 	height: 433px;
 	text-align: center;
 	padding: 150px 76px 170px 76px;
-	background-image: url(..img/woman.jpg);
+	background-image: url(https://catherineasquithgallery.com/uploads/posts/2021-12/1639768557_105-catherineasquithgallery-com-p-fon-abstraktnii-rozovii-163.jpg);
 }
+/*справа отступ больше чем слева*/
