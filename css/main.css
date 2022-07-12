@@ -12,9 +12,11 @@ h1, h2, h3, h4, h5, h6{
 }
 
 .nav{
-	padding: 35px;
+	padding: 20px 35px;
 	display: flex;
 	justify-content: space-between;
+	font-family: 'Montserrat', sans-serif;	
+	align-items: center;
 }
 
 .logo{
@@ -148,7 +150,8 @@ h1, h2, h3, h4, h5, h6{
 
 .about-us{
 	padding: 14px 124px 0 124px;
-}
+/*	width: 1200px;
+*/}
 
 .about-us__up{
 	display: flex;
@@ -203,7 +206,7 @@ h1, h2, h3, h4, h5, h6{
 }
 
 .about-us__card{
-	width: 260px;  /*//298*/
+	width: 280px;  /*//298*/
 	height: 433px;
 	background-color: #B91869;
 	text-align: center;
@@ -235,7 +238,7 @@ h1, h2, h3, h4, h5, h6{
 }
 
 .about-us__card-close{
-	width: 260px; /* //298*/
+	width: 280px; /* //298*/
  	height: 433px;
 	text-align: center;
 	padding: 150px 76px 170px 76px;
